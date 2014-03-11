@@ -1,7 +1,6 @@
-dropwizard-helloworld
-======================
+dropwizard-helloworld 1221
+========================
 
-123
 $ mvn clean package
 
 $ bin/run.sh 
