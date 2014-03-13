@@ -1,4 +1,4 @@
-dropwizard-helloworld 11000
+dropwizard-helloworld 11
 ========================
 
 $ mvn clean package
